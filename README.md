@@ -1,16 +1,42 @@
 ## Hola cómo están? Gracias por pasarse por acá!👋
+# 👋 ¡Hola! Soy Flor
 
-<!--
-**florenciadaddin-anon/florenciadaddin-anon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Estudiante de Ciberseguridad** con enfoque en **Red Team**, **QA** y **Desarrollo**.  
+Me interesa crear soluciones modernas, seguras y funcionales, y aprender constantemente sobre **tecnologías emergentes**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 🎓 Actualmente cursando **Tecnicatura en Ciberseguridad**
+- 🛡️ Apasionada por **seguridad ofensiva**, **automatización** y **pruebas de software**
+- 🌱 Aprendiendo: **Python**, **React**, **DevOps** y **Cloud Security**
+- 📚 Me gusta colaborar en proyectos open-source y compartir conocimiento
+- 🎯 Objetivo: desarrollar una carrera internacional en **Ciberseguridad** y **QA**
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### Lenguajes & Frameworks
+
+
+### QA & Seguridad
+
+### Herramientas
+
+---
+
+## 📊 GitHub Stats
+
+
+---
+
+## 📫 Contacto
+
+
+---
+
+## ✨ Frase o Lema Personal
+_"La seguridad no es un producto, es un proceso."_ – Bruce Schneier
+
+
